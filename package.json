@@ -1,0 +1,31 @@
+{
+  "name": "create-express-openapi",
+  "version": "0.0.1",
+  "description": "Bootstrap template for express-openapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adantoscano/create-express-openapi.git"
+  },
+  "keywords": [
+    "openapi",
+    "swagger",
+    "express"
+  ],
+  "author": "Adan Toscano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adantoscano/create-express-openapi/issues"
+  },
+  "homepage": "https://github.com/adantoscano/create-express-openapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-openapi": "^6.0.0",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
