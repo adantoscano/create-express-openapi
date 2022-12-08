@@ -24,7 +24,7 @@
   "homepage": "https://github.com/adantoscano/create-express-openapi#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-openapi": "^6.0.0",
     "swagger-ui-express": "^4.1.4"
   },
